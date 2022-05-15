@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# macOS finder file
+.DS_Store
+
+# virtualenv directory
+minn-data/
